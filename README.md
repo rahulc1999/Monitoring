@@ -41,7 +41,7 @@ sudo apt-get update && sudo apt-get install influxdb
 sudo service influxdb start
 
 influx
-> CREATE DATABASE collectd 
-> exit
+CREATE DATABASE collectd 
+exit
 
 
